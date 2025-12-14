@@ -1,0 +1,18 @@
+.pred,id,brca1,.row,.config
+-0.256893664553237,train/test split,0.077032112,1,pre0_mod0_post0
+-0.27602743295267773,train/test split,-0.220676831,7,pre0_mod0_post0
+-0.27946357145131373,train/test split,-0.093334868,8,pre0_mod0_post0
+-0.23422704437138986,train/test split,-0.485056576,9,pre0_mod0_post0
+-0.30634560740033595,train/test split,-0.284995673,12,pre0_mod0_post0
+-0.17873002674259014,train/test split,-0.483948349,15,pre0_mod0_post0
+-0.16883894299375146,train/test split,0.015504478,24,pre0_mod0_post0
+-0.2004878219717285,train/test split,-0.475180575,26,pre0_mod0_post0
+-0.14596304494839468,train/test split,-0.298646021,27,pre0_mod0_post0
+-0.1621983636674952,train/test split,-0.148276293,30,pre0_mod0_post0
+-0.17681571762297876,train/test split,-0.091707972,31,pre0_mod0_post0
+-0.24169610871905892,train/test split,-0.616680884,38,pre0_mod0_post0
+-0.11188179412383749,train/test split,0.002152462,41,pre0_mod0_post0
+-0.24334119661263276,train/test split,-0.187630283,43,pre0_mod0_post0
+-0.15845857016811762,train/test split,-0.09354318,50,pre0_mod0_post0
+-0.18079574636026594,train/test split,-0.18692974,54,pre0_mod0_post0
+-0.22327095379020967,train/test split,-0.221798709,58,pre0_mod0_post0
